@@ -2,8 +2,11 @@
   font-family: 'TCCEB' ;
   src: url('fonts/TCCEB.TTF') format('openType');
 }
+<<<<<<< HEAD
 
 @font-face {
   font-family: 'Mont-Bold';
   src: url('fonts/FontsFree-Net-Mont-Bold.ttf') format('openType');
 }
+=======
+>>>>>>> f0802e673950b0d631c31ebdcffea2c9065704eb
