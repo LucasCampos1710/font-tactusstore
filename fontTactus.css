@@ -1,4 +1,9 @@
 @font-face {
-  font-family: TCCEB ;
+  font-family: 'TCCEB' ;
   src: url('fonts/TCCEB.TTF') format('openType');
+}
+
+@font-face {
+  font-family: 'Mont-Bold';
+  src: url('fonts/FontsFree-Net-Mont-Bold.ttf') format('openType');
 }
